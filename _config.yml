@@ -19,9 +19,9 @@ navbar-img: "picture/mig-31.jpg"
 navbar-links:
   About: "HTML/About.html"
   Resources:
-    - Categories: "HTML\category.html"
-    - History: "HTML\histoty.html"
-  Recognizer: "HTML\jet_recognizer.html"
+    - Categories: "HTML/category.html"
+    - History: "HTML/histoty.html"
+  Recognizer: "HTML/jet_recognizer.html"
 
 social-network-links:
   email: "shoaibshahriar01@gmail.com"
