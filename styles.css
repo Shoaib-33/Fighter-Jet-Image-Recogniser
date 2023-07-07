@@ -5,8 +5,9 @@ body {
     background-image: url("Pic.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.3);
 }
+
 
 body {
     font-family: 'Roboto Condensed', Arial, sans-serif;
