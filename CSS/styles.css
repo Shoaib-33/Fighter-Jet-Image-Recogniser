@@ -2,7 +2,7 @@ body {
     font-family: 'Roboto Condensed', Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url("picture/Pic.jpg");
+    background-image: url("Pic.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgba(0, 0, 0, 0.1);
