@@ -7,17 +7,17 @@ title: Home
 description: An Image classifion API that classifies 30 different types of Fighter Aircraft.
 author:  Mohammad Shoaib Shahriar
 
-avatar: "mig-31.jpg"
+avatar: "picture/mig-31.jpg"
 round-avatar: true
 post_search: true
          
-navbar-img: "mig-31.jpg"
+navbar-img: "picture/mig-31.jpg"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "mig-31.jpg"
+#page-img: "picture/mig-31.jpg"
 
 
 navbar-links:
-  About: "About.html"
+  About: "HTML/About.html"
   Resources:
     - Categories: "HTML\category.html"
     - History: "HTML\histoty.html"
