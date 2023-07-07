@@ -13,7 +13,7 @@ post_search: true
          
 navbar-img: "picture/mig-31.jpg"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "picture/mig-31.jpg"
+page-img: "Pic.jpg"
 
 
 navbar-links:
