@@ -1,0 +1,58 @@
+body {
+    font-family: 'Roboto Condensed', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("picture/Pic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+body {
+    font-family: 'Roboto Condensed', Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    color: #333333;
+    font-weight: 700;
+    font-size: 36px;
+    margin-top: 0;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+p {
+    color: #666666;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.aircraft-list {
+    color: #666666;
+    font-size: 18px;
+    margin-top: 40px;
+    list-style-type: none;
+    padding: 0;
+}
+
+.aircraft-list li {
+    margin-bottom: 10px;
+}
+
+p, h2 {
+    color: #666666;
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 10px;
+}

@@ -1,0 +1,30 @@
+remote_theme: daattali/beautiful-jekyll@master
+plugins:
+- jekyll-remote-theme
+
+
+title: Home
+description: An Image classifion API that classifies 30 different types of Fighter Aircraft.
+author:  Mohammad Shoaib Shahriar
+
+avatar: "mig-31.jpg"
+round-avatar: true
+post_search: true
+         
+navbar-img: "mig-31.jpg"
+#footer-img: "/assets/img/bgimage.png"
+page-img: "mig-31.jpg"
+
+
+navbar-links:
+  About: "About.html"
+  Resources:
+    - Categories: "HTML\category.html"
+    - History: "HTML\histoty.html"
+  Recognizer: "HTML\jet_recognizer.html"
+
+social-network-links:
+  email: "shoaibshahriar01@gmail.com"
+  rss: true 
+  facebook: https://www.facebook.com/shoaib.sharar
+  github: Shoaib-33
