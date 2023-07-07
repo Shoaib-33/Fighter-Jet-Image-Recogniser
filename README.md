@@ -2,7 +2,7 @@
 
 # Cap-Recognizer
 An image classification model from data collection, cleaning, model training, deployment and API integration. <br/>
-The model can classify 20 different types of caps <br/>
+The model can classify 26 different types of Fighter Aircrafts <br/>
 The types are following: <br/>
 1. General Dynamics F-16 Fighting Falcon aircraft
 2. Mikoyan MiG-29
