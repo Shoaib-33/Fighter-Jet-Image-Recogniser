@@ -3,6 +3,13 @@
 # Description
 The project is all about Military aviation more specifically fighter jet image recoginizer which can identify fighter aircraft from the image of the aircraft provided as input.
 
+# Technical Specification:
+1. FastAi for data preprocessing,training etc.
+2. Gradio.
+3. Hugging face space for deployment.
+4. GitHub page for API
+
+
 # Cap-Recognizer
 An image classification model from data collection, cleaning, model training, deployment and API integration. <br/>
 The model can classify 26 different types of Fighter Aircrafts <br/>
