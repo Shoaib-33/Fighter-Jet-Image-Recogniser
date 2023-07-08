@@ -48,7 +48,7 @@ The types are following: <br/>
 Details can be found in `notebooks/data_prep.ipynb`
 
 # Training and Data Cleaning
-**Training:** Fine-tuned a resnet34 model for 25 epochs (3 times) and got upto ~84% accuracy. <br/>
+**Training:** Fine-tuned a resnet34 model for 25 epochs (8 times) and got upto ~84% accuracy. <br/>
 **Data Cleaning:** This part took the highest time. Since I collected data from browser, there were many noises. Also, there were images that contained. I cleaned and updated data using fastai ImageClassifierCleaner. I cleaned the data each time after training or finetuning, except for the last time which was the final iteration of the model. <br/>
 
 # Model Deployment
