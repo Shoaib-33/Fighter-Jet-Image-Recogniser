@@ -56,4 +56,4 @@ I deployed to model to HuggingFace Spaces Gradio App. The implementation can be 
 <img src = "hugging.png" width="700" height="350">
 
 # API integration with GitHub Pages
-The deployed model API is integrated [here](https://shoaib-33.github.io/Fighter-Jet-Image-Recognizer/) in GitHub Pages Website. Implementation and other details can be found in `docs` folder.
+The deployed model API is integrated [here](https://shoaib-33.github.io/Fighter-Jet-Image-Recogniser/) in GitHub Pages Website. Implementation and other details can be found in `docs` folder.
