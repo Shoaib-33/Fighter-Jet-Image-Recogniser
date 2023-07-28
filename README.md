@@ -63,7 +63,7 @@ The deployed model API is integrated [here](https://shoaib-33.github.io/Fighter-
       <img src="photos/image-1.png" alt="Image 1">
     </td>
     <td>
-      <img src="photos/images-2.png" alt="Image 2">
+      <img src="photos/image-2.png" alt="Image 2">
     </td>
   </tr>
 </table>
