@@ -57,3 +57,13 @@ I deployed to model to HuggingFace Spaces Gradio App. The implementation can be 
 
 # API integration with GitHub Pages
 The deployed model API is integrated [here](https://shoaib-33.github.io/Fighter-Jet-Image-Recogniser/) in GitHub Pages Website. Implementation and other details can be found in `docs` folder.
+  <table>
+  <tr>
+    <td>
+      <img src="photos/image-1.png" alt="Image 1">
+    </td>
+    <td>
+      <img src="photos/images-2.png" alt="Image 2">
+    </td>
+  </tr>
+</table>
