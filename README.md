@@ -1,11 +1,11 @@
-# Fighter-Jet-Image-Recognizer
+# Military-Jet-Image-Recognizer
 
 
 <img src = "photos/mig-41.jpg" width="700" height="350">
 
 
 # Description
-The project is all about Military aviation more specifically fighter jet image recoginizer which can identify fighter aircraft from the image of the aircraft provided as input.
+The project is all about Military aviation more specifically fighter jet image recoginizer which can identify Military aircraft from the image of the aircraft provided as input.
 
 
 
@@ -17,7 +17,7 @@ The project is all about Military aviation more specifically fighter jet image r
 4. GitHub page for API
 
 
-# Fighter Jet-Recognizer
+# Military-Aircraft-Image-Recognizer
 An image classification model from data collection, cleaning, model training, deployment and API integration. <br/>
 The model can classify 26 different types of Fighter Aircrafts <br/>
 The types are following: <br/>
