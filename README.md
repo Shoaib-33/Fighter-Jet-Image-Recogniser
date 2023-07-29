@@ -2,6 +2,9 @@
 
 # Description
 The project is all about Military aviation more specifically fighter jet image recoginizer which can identify fighter aircraft from the image of the aircraft provided as input.
+
+
+
 <img src = "photos/mig-41.jpg" width="700" height="350">
 
 # Technical Specification:
