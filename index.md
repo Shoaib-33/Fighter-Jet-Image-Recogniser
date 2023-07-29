@@ -5,7 +5,7 @@ layout: page
 
 <html>
 <head>
-    <title>Advanced System for Fighter Aircraft Recognition</title>
+    <title>Advanced System for Military Aircraft Recognition</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
 </head>
