@@ -1,4 +1,4 @@
-# Military-Jet-Image-Recognizer
+# Military-Aircraft-Image-Recognizer
 
 
 <img src = "photos/mig-41.jpg" width="700" height="350">
