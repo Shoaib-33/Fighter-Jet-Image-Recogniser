@@ -11,7 +11,7 @@ layout: page
 </head>
 <body>
     <div class="container">
-        <h1>Advanced System for Fighter Aircraft Recognition</h1>
+        <h1>Advanced System for Military Aircraft Recognition</h1>
         <p>A predictive model classifying 26 different types of Fighter Aircraft</p>
 <h2>The types of Aircrafts are as follows:</h2>
 </div>
